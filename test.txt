@@ -1,2 +1,4 @@
 demo
 text
+this is the 3rd line
+and this in the fourth one
